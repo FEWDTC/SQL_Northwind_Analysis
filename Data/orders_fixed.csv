@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,ship_country
+101,C001,2024-01-10,USA
+102,C002,2024-02-15,Canada
+103,C001,2024-03-01,USA
+104,C003,2024-03-20,USA
+105,C004,2024-03-25,UK
